@@ -10,7 +10,7 @@ public class Sportka {
     private final List<Integer> osudi = new ArrayList<>();
 
     public Sportka() {
-        for (int i = 1; i < 51; i++) {
+        for (int i = 1; i < 50; i++) {
             osudi.add(i);
         }
     }
